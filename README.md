@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deep-meaning/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Deep Meaning](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-meaning/) |
+| **Get License** | [License this song: Deep Meaning](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-meaning/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The temperature rises when you look my way
+> You strip away the words I was gonna say
+> Your body is a language I want to read
+> You're exactly the kind of trouble I need
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
